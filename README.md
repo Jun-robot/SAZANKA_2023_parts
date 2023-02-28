@@ -14,7 +14,7 @@ infill30%
 | slide2_right      | 2      | 0     |  <img src="img/slide2_right.png" alt="" height="150"> ひっかかりのとこはinfill100% |
 | fixture      | 8      | 0      | <img src="img/fixture.png" alt="" height="150">  |
 | receiving_shaft    | 4      | 0      | <img src="img/receiving_shaft.png" alt="" height="150"> infill100% |
-| rotation      | 2      | 0     |  <img src="img/rotation.png" alt="" height="150"> infill100% |
+| rotation      | 2      | 1     |  <img src="img/rotation.png" alt="" height="150"> infill100% |
 | axis     | 2      | 0      | <img src="img/axis.png" alt="" height="150">  インサート入れるから待ち|
 |mini_receiving   | 4      | 2      | <img src="img/mini_receiving.png" alt="" height="150">  |
 | mini_rotation     | 2      | 1      | <img src="img/mini_rotation.png" alt="" height="150">  |
